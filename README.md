@@ -1,1 +1,1 @@
-# frontendmasters-project-2-newspaper-layout
+This is the second project, a CSS project, in the course Complete Intro to Web Dev v3 by Brian Holt (https://github.com/btholt)
